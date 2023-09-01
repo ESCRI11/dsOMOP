@@ -9,3 +9,5 @@ LazyData: true
 RoxygenNote: 7.2.3
 AggregateMethods:
     createOMOPVocabularyTable
+Depends:
+    resourcer
